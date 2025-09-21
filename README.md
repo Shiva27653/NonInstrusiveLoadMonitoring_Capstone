@@ -1,12 +1,3 @@
-# NonInstrusiveLoadMonitoring_Capstone
-Congratulations on completing and deploying the entire project\! That is a massive achievement. Your Streamlit app looks fantastic and works perfectly.
-
-You've got a great start on the README. Let's enhance it to fully reflect the quality and depth of the work you've done. I've restructured it, added more detail about your methodology and findings, and included a crucial section on how to run the project locally.
-
-Here is the revised, more professional version.
-
------
-
 # Non-Intrusive Load Monitoring (NILM) for Energy Disaggregation
 
 ## Capstone Project
