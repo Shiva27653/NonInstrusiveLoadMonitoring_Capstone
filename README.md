@@ -12,12 +12,6 @@ This project presents a live, web-based application for Non-Intrusive Load Monit
 
 -----
 
-### ✨ Application Demo
-
-*(**Action for you:** Create a short screen recording (GIF) of you using the app and replace the link above. You can use a tool like Giphy Capture or ScreenToGif.)*
-
------
-
 ### \#\# Key Features
 
   * **Live Data Analysis**: Users can select a city and upload raw smart meter data to receive a real-time analysis.
