@@ -6,3 +6,5 @@ seaborn
 google-generativeai
 openpyxl
 scikit-learn
+tabulate
+
