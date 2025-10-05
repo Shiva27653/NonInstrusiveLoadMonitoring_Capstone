@@ -1,6 +1,5 @@
 # Non-Intrusive Load Monitoring (NILM) for Energy Disaggregation
 
-## Capstone Project
 
 This project presents a live, web-based application for Non-Intrusive Load Monitoring (NILM). The tool takes raw, aggregated smart meter data, processes it on the fly, and uses an unsupervised machine learning model to disaggregate the total energy signal into its constituent load patterns. This allows for detailed energy audits and the identification of consumption behaviors without needing sensors on every device.
 
